@@ -1,6 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
 
-body { 
-	background-image: url("both/cat_bg.jpg"); 
+div {
+	float: middle;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+#header {
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+h1 {
+	font-family: 'Fredoka One';
+	font-size: 100px;
+	color: #ffffff;
 }
