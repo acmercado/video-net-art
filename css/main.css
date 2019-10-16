@@ -35,6 +35,7 @@ h2 {
 .tora {
 	width: 25%;
 	height: 25%;
+	float: right;
 	position: fixed;
 	top: 0;
 	right: 0;
