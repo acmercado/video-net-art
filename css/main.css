@@ -32,6 +32,14 @@ h2 {
 	bottom: 0;
 }
 
+.tora {
+	width: 25%;
+	height: 25%;
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
 .catvids {
 	padding: 5px;
 }
