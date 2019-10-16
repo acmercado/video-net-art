@@ -26,6 +26,15 @@ h3 {
 	text-align: center;
 }
 
+p {
+	font-family: 'Comfortaa';
+	color: #ffffff;
+	font-size: 10px;
+	position: fixed;
+	bottom: 70px;
+	right: 10px;
+}
+
 .momo {
 	width: 30%;
 	height: 50%;
